@@ -1,9 +1,0 @@
-{
-  "name": "calificador-automatico",
-  "version": "1.0.0",
-  "description": "Página web que califica archivos del 0 al 20 según los datos obligatorios que contengan.",
-  "private": true,
-  "scripts": {
-    "test": "node --test tests/"
-  }
-}
